@@ -1,4 +1,4 @@
-# Aliexpress-sg-monitor
+# Ali-sg-monitor
 
 A Discord bot for monitoring product stock status on Ali.
 
