@@ -10,3 +10,4 @@ A Discord bot for monitoring product stock status on Ali.
 - Proxy support
 - Discord webhook notifications
 - Easy-to-use commands
+- Coming Soon
